@@ -1,0 +1,50 @@
+{
+  "personal": {
+    "name": "M S Kamran",
+    "organization": "Roaming BD",
+    "title": "Software Engineer",
+    "department": "Engineering",
+    "employeeId": "RT25052404",
+    "officePhone": "01332-547048",
+    "personalPhone": "01734784848",
+    "email": "mskamranroamingbd@gmail.com",
+    "website": "https://roamingbd.com/",
+    "address": {
+      "street": "House-25 (2nd Floor), Road-02, Sector-03, opposite of Shopno, Rajlokkhi, Uttara",
+      "city": "Dhaka",
+      "country": "Bangladesh",
+      "full": "House-25 (2nd Floor), Road-02, Sector-03, opposite of Shopno, Rajlokkhi, Uttara, Dhaka, Bangladesh"
+    }
+  },
+  "social": {
+    "linkedin": "https://www.linkedin.com/in/mskamran23/",
+    "facebook": "https://www.facebook.com/ms.kamran.23/",
+    "github": "https://github.com/MS-Kamran",
+    "portfolio": "https://ms-kamran.github.io/M-S-Kamran-Portfolio/#/",
+    "whatsappNumber": "8801734784848"
+  },
+  "assets": {
+    "companyLogo": "./Photos/RTTLOGO.png",
+    "profileImage": "./Photos/Kamran.png",
+    "lightBackground": "./Photos/RoamingBackground.jpg",
+    "darkBackground": "./Photos/DarkMOOD.png",
+    "favicon": "./Photos/Rlogo.png"
+  },
+  "theme": {
+    "primaryColor": "#884dff",
+    "secondaryColor": "#33aaff",
+    "accentColor": "#ff6b6b"
+  },
+  "animation": {
+    "notificationDuration": 3000,
+    "transitionDelay": 100,
+    "iconRotationDelay": 150
+  },
+  "meta": {
+    "title": "E-Card - Digital Business Card",
+    "description": "Professional digital business card for M S Kamran, Software Engineer at Roaming BD",
+    "author": "M S Kamran",
+    "version": "2.0.0",
+    "lastUpdated": "2024-12-19"
+  }
+}
